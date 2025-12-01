@@ -1,5 +1,5 @@
 """
-
+# 中文：这是我自己的学习注释，用来练习 Git 提交
 A* grid planning
 
 author: Atsushi Sakai(@Atsushi_twi)
